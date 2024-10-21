@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Dependency directories
+/node_modules
+/coverage
+
+# Build files
+dist/
+.next/
+
+# Environments
+.env
